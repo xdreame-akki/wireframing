@@ -39,6 +39,45 @@ This covers interactive components like buttons, search bars, sliders, forms, an
 
 **Example**: A login wireframe might include input fields for username and password, along with a “Forgot Password” link and a login button to visualize user interaction.
 
+## Types of Wireframes
+
+Wireframes generally fall into two categories based on their level of detail and purpose in the design process:
+
+### Low-Fidelity Wireframes
+
+- **Appearance**: Simple, rough, often black-and-white sketches using placeholders for images and text.
+- **Purpose**: Focus on layout and structure without visual design elements.
+- **Tools**: Paper, Balsamiq, basic digital drawing tools.
+- **When Used**: Early in the design process for brainstorming and basic structure validation.
+
+**Example**: Boxes labeled “Image” or “Button,” with no styling or color.
+
+### High-Fidelity Wireframes
+
+- **Appearance**: Detailed and closely resemble the final design, often including specific fonts, spacing, and real content.
+- **Purpose**: Simulate a realistic view of the interface and test usability.
+- **Tools**: Figma, Adobe XD, Sketch, high-end prototyping tools.
+- **When Used**: Later stages of the design process before moving to development.
+
+**Example**: A complete homepage wireframe with real UI elements, images, and interactions.
+
+## Example Analysis
+
+### What Type of Wireframe Is This?
+
+**Figma Project**: [Project Airbnb](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=uOQGYUc3qUmIAy8a-0)
+
+The design linked in this Figma project replicates the Airbnb booking platform and was created as part of the **ALX Africa program**. It features detailed layout, color usage, icons, buttons, and actual content. This indicates that it is a **high-fidelity wireframe**.
+
+**Why it's high-fidelity:**
+
+- Detailed visual hierarchy
+- Interactive UI elements like filters, search bars, and cards
+- Typography and icons consistent with real design systems
+- Realistic spacing and layout structure
+
+Such wireframes are typically used in the final design stages for review, testing, and developer handoff.
+
 ## Common Tools for Wireframing
 
 - Pen and paper
@@ -49,4 +88,6 @@ This covers interactive components like buttons, search bars, sliders, forms, an
 
 ## Conclusion
 
-Wireframing is an essential practice in UX/UI design that ensures a project begins with a clear and functional blueprint. It enables effective planning, reduces misunderstandings, and supports a user-centered design process.
+Wireframing is an essential practice in UX/UI design that ensures a project begins with a clear and functional blueprint. It enables effective planning, reduces misunderstandings, and supports a user-centered design process. Understanding the difference between low- and high-fidelity wireframes allows teams to select the right level of detail at each stage of product development.
+
+The Airbnb clone project from ALX Africa serves as a strong example of a high-fidelity wireframe, showcasing how detailed design prototypes help bridge the gap between concept and code.
